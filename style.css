@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.heading h1{
+    color: rgb(110, 46, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.amazonsection{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.amazonsection .products{
+    width: 20%;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    margin-right: 10px;
+    
+}
+
+.amazonsection .products .image img{
+    width: 100%;
+    margin-right: 10px;    
+}
+
+.amazonsection .products .text{
+    text-align: left;    
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.text p{
+    margin-bottom: 10px;
+}
+
+.p2 .option {
+    color: black; 
+}
+  
+.p2 .capacities {
+    color: #1F618D; 
+}
+
+.p4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.p3, .p5{
+    color: gray;
+}
+
+.p8 {
+    color: red;
+}
+
+.p6 .date{
+    font-weight: bold;
+}
+
+.p2, .p5, .p7 {
+    font-size: 11px;
+}
+
+.p7 {
+    color: purple;
+}
+
+.amazonsection .products .button {
+    text-align: left;
+}
+
+.amazonsection .products button {
+    border: none;
+    color: black;
+    border-radius: 20px;
+    background-color: yellow;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
